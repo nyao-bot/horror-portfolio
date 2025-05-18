@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        {/* フォントの読み込みは pages/_document.tsx などで行うのが推奨 */}
+        <title>Horror Portfolio</title>
       </Head>
 
       <main
